@@ -290,6 +290,27 @@ nav a:hover {
   margin-bottom: 8px;
 }
 
+.project-features {
+  margin: 18px 0 10px;
+  text-align: left;
+}
+
+.project-features h4 {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+
+.project-features ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.project-features li {
+  margin-bottom: 6px;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
 /* ---------- Contact and footer ---------- */
 .contact-section {
   background: var(--soft);
